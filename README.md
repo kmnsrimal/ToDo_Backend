@@ -1,8 +1,8 @@
 # ToDo_Backend
 
-##Install npm packages
+## Install npm packages
 
-Install the npm packages described in the package.json and verify that it works:
+Install the npm packages 
 
 npm install
 
