@@ -12,5 +12,5 @@ path - ToDo_Backend/config/config.js
 
 ## Run 
 
-ng serve --open
+ng start
 
